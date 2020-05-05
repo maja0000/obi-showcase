@@ -14,15 +14,16 @@ function App() {
           <div className="text">
             <p>Task managment feature </p>
             <br />
-            GUI where all the relevant information about repairs and maintenance
-            of vehicle fleet can be found, sortet, delegated and archived. To
-            achieve this, each new task is assigned a ticket. Validated tickets
-            are stored in an database to allow all authorized users see them in
-            the app and direct a task to specific entity, like a mechanic to
-            take care of the task. App is implemented in user friendly drag and
-            drop functionality. I wrote the application in a collaboration with
-            another developer, using technologies that include : React, Redux,
-            Node.js, Express, MongoDB and Mongoose.{' '}
+            Graphic user interface where all the relevant information about
+            repairs and maintenance of vehicle fleet can be found, sortet,
+            delegated and archived. To achieve this, each new task is assigned a
+            ticket. Validated tickets are stored in an database to allow all
+            authorized users see them in the app and direct a task to specific
+            entity, like a mechanic to take care of the task. App is implemented
+            in user friendly drag and drop functionality. I wrote the
+            application in a collaboration with another developer, using
+            technologies that include : React, Redux, Node.js, Express, MongoDB
+            and Mongoose.{' '}
           </div>
           <img className="main" src={main} alt="screenshot" />
           <img className="main" src={edit} alt="screenshot" />
