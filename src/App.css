@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.container {
+  margin: 50px;
+}
+.main {
+  height: 300px;
+  margin: 20px;
+  box-shadow: 1px 1px 10px 0px rgba(245, 242, 245, 1);
+}
+.text {
+  margin: 0 150px 30px 150px;
+}
+p {
+  font-size: 35px;
+  margin: 10px;
+}
+span {
+  font-size: 20px;
+}
